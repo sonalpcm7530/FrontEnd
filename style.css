@@ -1,0 +1,44 @@
+.heading{
+    color: blue;
+    text-decoration: dotted;
+    text-align: justify;
+}
+body{
+    background-color: yellowgreen;
+    background-image: -moz-linear-gradient();
+
+}
+button{
+    background-color:red;
+}
+#box{
+    height: 100px;
+    width: 100px;
+    border:1px;
+    margin:5px;
+    text-align: center;
+    background-color: rgb(255, 0, 153);
+
+}
+.content{
+    color: aqua;
+    height: 100px;
+    width: 100px;
+    border:1px;
+    margin:5px;
+    text-align: center;
+    background-color: rgb(255, 0, 153);
+
+}
+.newclass{
+    background-color: green;
+    
+}
+div{
+    height:100px;
+    width:100px;
+    border:1px;
+    margin:5px;
+    text-align: center;
+    background-color: rgb(255, 0, 153)
+}
